@@ -140,8 +140,8 @@ ORDER BY Revenue DESC ;
 SELECT branch,sum(Quantity) as qnty
 FROM salesdata_o
 GROUP BY branch
-HAVING qnty > (select avg(qntysold) from sum_pdtsold);
- 
+HAVING qnty > (select avg(qntysold) from sum_pdtsold); 
+-- ans: Branch A (qnty_A= 1859) sold more than the average product sold(1836)
 
 -- --------------------------------------------------------------------------
 -- =============label product line as good,and bad based on avg sales========
