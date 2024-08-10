@@ -12,4 +12,4 @@
       5. How do our clients pay for orders? Indicate which branch receives the most orders using the Ewallet payment option.
       6. Which months of the year make the most revenue and cost of goods sold?
       7. Which branch sold more than the average product sold? label them as  'Good' and 'Bad' based on avg prooduct sold.
-      8. Create a stored procedure to retrieve specific user inout year data, include woorkshift column. 
+      8.Create a stored procedure to obtain specified user input year data,, include workshift column. 
