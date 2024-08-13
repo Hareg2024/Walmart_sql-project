@@ -14,5 +14,5 @@
       7. Which branch sold more than the average product sold? label them as  'Good' and 'Bad' based on avg prooduct sold.
       8.Create a stored procedure to obtain specified user input year data,, include workshift column. 
 
-This repository contains a sample sql, as well as the complete sql file. 
+This repository contains a sample sql script, as well as the complete sql file. 
 ![image](https://github.com/user-attachments/assets/7b9bbae2-2825-4ca0-a863-889e676513d5)
