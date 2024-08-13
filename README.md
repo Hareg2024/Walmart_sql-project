@@ -15,4 +15,8 @@
       8.Create a stored procedure to obtain specified user input year data,, include workshift column. 
 
 This repository contains a sample sql script, as well as the complete sql file. 
+* Sample 1:
+![image](https://github.com/user-attachments/assets/3c50a8d1-3672-473b-bce8-d8a8e6949f7d)
+
+* Sample 2
 ![image](https://github.com/user-attachments/assets/7b9bbae2-2825-4ca0-a863-889e676513d5)
